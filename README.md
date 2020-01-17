@@ -11,9 +11,14 @@ A list of public datasets containing geo-referenced data.
 5. Global-scale Check-in (Check-ins and Social Networks)(about 22 months from Apr. 2012 to Jan. 2014))<br/>
 [1-5]:https://sites.google.com/site/yangdingqi/home/foursquare-dataset
 
+### Gowalla
+1. Goalla 6,442,890 check-ins (Feb. 2009 - Oct. 2010)
+https://snap.stanford.edu/data/loc-Gowalla.html
+2. Goalla 36,001,959 check-ins (June 2011).
+https://www.yongliu.org/datasets/
 
 ## Origin Destination Tuples
-1. NYC Yellow Cab (Trip Record)(2016)<br/>
+1. NYC Yellow Cab - 442 taxis (Trip Record)(2016)<br/>
 https://www.kaggle.com/c/nyc-taxi-trip-duration/data
 
 
