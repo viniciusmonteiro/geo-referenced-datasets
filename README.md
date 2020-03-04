@@ -25,6 +25,9 @@ https://figshare.com/articles/Tweet_geolocation_5m/3168529
 * Yahoo  Flickr (99.3 million images and 0.7 million videos, about 49 million of the images are also geotagged) <br/>
 https://www.datainnovation.org/2014/07/100-million-flickr-images-for-download/
 
+#### Carsharing
+Location of the parked cars, every two minutes for several months. https://www.kaggle.com/gidutz/autotel-shared-car-locations
+
 ## Origin-Destination Tuples
 * NYC Yellow Cab - 442 taxis (Trip Record)(2016)<br/>
 https://www.kaggle.com/c/nyc-taxi-trip-duration/data
@@ -36,6 +39,8 @@ https://www.microsoft.com/en-us/research/project/geolife-building-social-network
 https://www.kaggle.com/crailtap/taxi-trajectory
 * Lisa - Traffic signs, vehicle detection, traffic lights, and trajectory patterns.<br/>
 http://cvrr.ucsd.edu/LISA/datasets.html
+* GPS Data From Rio de Janeiro Buses. 56 Days.
+https://www.kaggle.com/igorbalteiro/gps-data-from-rio-de-janeiro-buses
 
 ## Sea-Monitoring (AIS)
 * USA Coast<br/>
