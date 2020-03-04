@@ -26,7 +26,7 @@ https://figshare.com/articles/Tweet_geolocation_5m/3168529
 https://www.datainnovation.org/2014/07/100-million-flickr-images-for-download/
 
 #### Carsharing
-Location of the parked cars, every two minutes for several months. https://www.kaggle.com/gidutz/autotel-shared-car-locations
+* Location of the parked cars, every two minutes for several months. https://www.kaggle.com/gidutz/autotel-shared-car-locations
 
 ## Origin-Destination Tuples
 * NYC Yellow Cab - 442 taxis (Trip Record)(2016)<br/>
